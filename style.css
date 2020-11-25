@@ -3,7 +3,7 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #EEEEEE;  
+    background-color: rgb(238,238,238);  
     
     color: #303030;
     font: Verdana, Arial, Sans-Serif;
@@ -60,7 +60,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #dddddd;
+    background-color:#aaaaaa;
     overflow: hidden;
 }
 
@@ -90,4 +90,5 @@ nav li a.active {
   color: skyblue;
   padding: 14px 16px;
   font-weight: bold;
+  font: helvetica
 }
