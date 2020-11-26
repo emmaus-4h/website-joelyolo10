@@ -3,6 +3,7 @@ body {
 background-image: url("jumpman87.jpg");
 background-repeat: no-repeat;
 background-size: 1300px 1000px;
+background-position: center
 }
 
 
@@ -34,7 +35,7 @@ footer {
 /* specifieke stijlen */
 
 img.zweefLinks {
-    float: center;
+    float: cemter;
     margin-right: 1px;
      
 }
