@@ -46,7 +46,7 @@ img.zweefLinks {
 }
 
 a {
-    color: skyblue;
+    color: rgb(35, 142, 184);
     text-decoration: none;
 }
 
@@ -60,7 +60,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color:#aaaaaa;
+    background-color:#ff0000;
     overflow: hidden;
 }
 
@@ -70,24 +70,24 @@ nav ul li {
 
 nav li a {
     display: block;
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 nav li a:hover {
-    background-color: #aaaaaa;
+    background-color: #ffffff;
 }
 
 nav li a.active {
-    background-color: skyblue;
+    background-color: rgb(255, 255, 255);
 }
 
 #logo{
   float: right;
   text-align: center;
-  color: skyblue;
+  color:rgb(0, 0, 0);
   padding: 14px 16px;
   font-weight: bold;
   font: helvetica
