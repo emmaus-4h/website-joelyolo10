@@ -1,13 +1,10 @@
 /* Basislayout */
-
-html, body {
-    height: 100%;
-    padding: 0;
-    background-color: rgb(238,238,238);  
-    
-    color: #303030;
-    font: Verdana, Arial, Sans-Serif;
+body {
+background-image: url("jumpman87.jpg");
+background-repeat: no-repeat;
+background-size: 1300px 1000px;
 }
+
 
 
 main {
@@ -37,8 +34,9 @@ footer {
 /* specifieke stijlen */
 
 img.zweefLinks {
-    float: left;
-    margin-right: 15px;
+    float: center;
+    margin-right: 1px;
+     
 }
 
 .smalltext {
