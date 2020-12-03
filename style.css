@@ -37,8 +37,10 @@ footer {
 /* specifieke stijlen */
 
 img.zweefLinks {
-    float: cemter;
-    margin-right: 1px;
+    float: center;
+    margin-right: 5px;
+    width: 250px;
+    height: 200px
      
 }
 
@@ -52,14 +54,14 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+   ;
 }
 
 
 /* navigatiebalk */
 nav ul {
     list-style-type: none;
-    margin: auto;
+    margin: 20px;
     padding: 0;
     background-color:#ff0000;
     overflow: hidden;
