@@ -2,8 +2,9 @@
 body {
 background-image: url("jumpman87.jpg");
 background-repeat: no-repeat;
-background-size: 1300px 1000px;
+background-size: cover;
 background-position: center;
+background-attachment: fixed;
  
 }
 
