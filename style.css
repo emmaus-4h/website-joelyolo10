@@ -39,11 +39,15 @@ footer {
 /* specifieke stijlen */
 
 img.zweefLinks {
-    float: center;
+    float: left;
     margin-right: 5px;
     width: 250px;
     height: 200px
      
+}
+
+.clearFloat {
+  clear:both;
 }
 
 .smalltext {
